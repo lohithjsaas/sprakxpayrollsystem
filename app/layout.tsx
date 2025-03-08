@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SparkX Auto Detailers - Attendance & Payroll",
+  title: "SparkX Detailing - Attendance & Payroll",
   description: "Track employee attendance and manage payroll",
     generator: 'v0.dev'
 }

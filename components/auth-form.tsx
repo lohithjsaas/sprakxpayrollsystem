@@ -113,7 +113,7 @@ export function AuthForm() {
   return (
     <Card className="w-full max-w-md mx-auto">
       <CardHeader>
-        <CardTitle>SparkX Auto Detailers</CardTitle>
+        <CardTitle>SparkX Detailing</CardTitle>
         <CardDescription>Sign in to manage employee attendance & payroll</CardDescription>
       </CardHeader>
       <CardContent>

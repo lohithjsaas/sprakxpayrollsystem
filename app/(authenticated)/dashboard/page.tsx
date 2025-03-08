@@ -53,7 +53,7 @@ export default async function DashboardPage() {
     <div className="space-y-6">
       <div>
         <h1 className="text-2xl font-bold">Dashboard</h1>
-        <p className="text-muted-foreground">Overview of SparkX Auto Detailers</p>
+        <p className="text-muted-foreground">Overview of SparkX Detailing</p>
         <p className="text-sm text-muted-foreground mt-1">{formattedDate}</p>
       </div>
 
